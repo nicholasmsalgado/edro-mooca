@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Fundo Sóbrio Editorial de Alto Padrão (Dark Charcoal Bronze) -->
+  <rect width="64" height="64" rx="14" fill="#111419" />
+  
+  <!-- Borda Sutil Champagne Dourada -->
+  <rect x="1" y="1" width="62" height="62" rx="13" fill="none" stroke="#947137" stroke-width="1.5" stroke-opacity="0.4" />
+  
+  <!-- Monograma Arquitetônico 'E' (Linhas Puras e Essenciais com Corte Geométrico) -->
+  <path d="M20 18 H44 V24 H27 V29 H40 V35 H27 V40 H44 V46 H20 Z" fill="#947137" />
+  
+  <!-- Acento Geométrico Dourado no Vértice Superior -->
+  <circle cx="44" cy="18" r="2.5" fill="#D4AF37" />
+</svg>
