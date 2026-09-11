@@ -47,12 +47,9 @@
   <meta name="twitter:description" content="Exclusividade residencial na Rua Siqueira Bueno. Lazer de clube elevado, plantas de 69m² a 132m² e decorados por Melina Romano.">
   <meta name="twitter:image" content="https://edrogamaromooca.com.br/assets/images/fachada.webp">
 
-  <!-- Typography: Playfair Display & Plus Jakarta Sans -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400;1,600&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-  
-  <link rel="preload" as="image" href="assets/images/vista_aerea_hero.webp" fetchpriority="high">
+  <!-- Hero Background Responsive Preload (High Priority LCP) -->
+  <link rel="preload" as="image" href="assets/images/vista_aerea_hero_mobile.webp" media="(max-width: 640px)" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/images/vista_aerea_hero.webp" media="(min-width: 641px)" fetchpriority="high">
   <link rel="stylesheet" href="style.css">
 
   <!-- Schema.org JSON-LD para SEO Imobiliário & Generative Engine Optimization (GEO) -->
@@ -287,7 +284,10 @@
   <!-- Hero Section (Imersivo com Vista Aérea da Região da Mooca e Scroll-Driven Parallax) -->
   <section id="hero" class="hero-editorial">
     <div class="hero-bg-container">
-      <img src="assets/images/vista_aerea_hero.webp" alt="Vista Aérea Panorâmica da Mooca com o Edro" class="hero-bg-img" width="1465" height="687" fetchpriority="high" loading="eager" decoding="sync">
+      <picture class="hero-bg-picture">
+        <source media="(max-width: 640px)" srcset="assets/images/vista_aerea_hero_mobile.webp" type="image/webp" width="750" height="351">
+        <img src="assets/images/vista_aerea_hero.webp" alt="Vista Aérea Panorâmica da Mooca com o Edro" class="hero-bg-img" width="1465" height="687" fetchpriority="high" loading="eager" decoding="sync">
+      </picture>
     </div>
     <div class="hero-overlay-gradient"></div>
 
@@ -1225,6 +1225,27 @@
     </div>
   </div>
 
+  <!-- Speculation Rules API para Pré-renderização Instantânea -->
+  <script type="speculationrules">
+  {
+    "prerender": [
+      {
+        "source": "list",
+        "urls": ["/"],
+        "eagerness": "moderate"
+      }
+    ],
+    "prefetch": [
+      {
+        "source": "document",
+        "where": {
+          "href_matches": "/*"
+        },
+        "eagerness": "moderate"
+      }
+    ]
+  }
+  </script>
   <script src="script.js" defer></script>
 </body>
 </html>
