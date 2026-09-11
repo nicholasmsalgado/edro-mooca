@@ -80,19 +80,25 @@ O lazer conta com infraestrutura completa de clube privativo:
 
 ---
 
-## Dúvidas Frequentes (FAQ)
+## Dúvidas Frequentes (FAQ Técnica e Construtiva)
 
-### Onde fica localizado o Edro Mooca?
-Na Rua Siqueira Bueno, Mooca, São Paulo (CEP 03108-001), próximo ao Metrô Belém, Radial Leste e Shopping Anália Franco.
+### Como funciona a infraestrutura de ar-condicionado?
+Entregue com infraestrutura completa para sala e todos os dormitórios, além de terraço técnico ventilado exclusivo para condensadoras (sem ocupar espaço do terraço social).
 
-### Quais são as metragens disponíveis?
-Plantas de 69m², 88m², 95m² e 132m², com opções de 2 a 4 dormitórios e 2 a 3 suítes.
+### Como funciona o aquecimento de água e a medição?
+Infraestrutura para aquecedor de passagem a gás com água quente nas torneiras da cozinha e banheiros, com medição individualizada de água e gás.
 
-### Todas as unidades possuem churrasqueira e armário privativo?
-Sim, 100% das unidades contam com churrasqueira a carvão no terraço e depósito privativo determinado no subsolo.
+### As vagas de garagem são determinadas?
+Sim, todas as vagas são determinadas no projeto (1 vaga para 69m² e 88m²; 2 vagas para 95m² e 132m²), com acessos independentes por portões duplos e armário privativo correspondente no subsolo.
 
-### Como agendar visita aos apartamentos decorados?
-As visitas aos decorados ocorrem exclusivamente mediante agendamento prévio com consultores credenciados pelo site ou via WhatsApp.
+### Quais os itens de segurança e sustentabilidade do condomínio?
+Portaria com clausura de pedestres e veículos, 8 câmeras entregues instaladas, gerador de emergência, reaproveitamento de águas pluviais, bicicletário e espaço para minimarket autônomo.
+
+### Como é o acesso ao Térreo Elevado?
+O lobby com pé-direito triplo conta com elevadores de transfer privativos que levam direto ao Térreo Elevado a 6 metros da rua.
+
+### As suítes possuem persianas de enrolar?
+Sim, caixilhos amplos com persiana de enrolar integrada nos dormitórios para 100% blackout e conforto acústico.
 
 ---
 
