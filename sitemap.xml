@@ -1,9 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://edrogamaromooca.com.br/</loc>
     <lastmod>2026-09-11</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://edrogamaromooca.com.br/assets/images/fachada.webp</image:loc>
+      <image:title>Fachada Monumental Edro Mooca</image:title>
+      <image:caption>Fachada arquitetônica autoral assinada por Perkins&amp;Will na Rua Siqueira Bueno</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://edrogamaromooca.com.br/assets/images/vista_aerea_hero.webp</image:loc>
+      <image:title>Vista Aérea Edro Mooca e Região</image:title>
+      <image:caption>Localização privilegiada na Mooca próximo ao Metrô Belém e Radial Leste</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://edrogamaromooca.com.br/assets/images/living_ampliado_132m.webp</image:loc>
+      <image:title>Apartamento Decorado 132m² Edro Mooca</image:title>
+      <image:caption>Living integrado com design de interiores assinado por Melina Romano</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://edrogamaromooca.com.br/assets/images/piscina_voo_passaro.webp</image:loc>
+      <image:title>Clube de Lazer no Térreo Elevado Edro Mooca</image:title>
+      <image:caption>Complexo de piscinas adulto com spa e infantil a 6 metros do nível da rua</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://edrogamaromooca.com.br/assets/images/espaco_gourmet.webp</image:loc>
+      <image:title>Espaço Gourmet com Forno de Pizza</image:title>
+      <image:caption>Área social equipada para celebrações gastronômicas privativas</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://edrogamaromooca.com.br/assets/images/planta_132m_3suites.webp</image:loc>
+      <image:title>Planta Técnica 132m² Edro Mooca</image:title>
+      <image:caption>Planta residencial de 132m² com 3 a 4 dormitórios e 2 a 3 suítes</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://edrogamaromooca.com.br/index.html.md</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
