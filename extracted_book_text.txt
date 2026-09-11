@@ -1,0 +1,892 @@
+=== PAGE 1 ===
+
+
+=== PAGE 2 ===
+
+
+=== PAGE 3 ===
+
+
+=== PAGE 4 ===
+pág 04
+VIDA  
+POR TODOS
+OS LADOS.
+Imagem Ilustrativa
+
+=== PAGE 5 ===
+TRAÇOS SOFISTICADOS SE REVELAM À SUA FRENTE.
+GEOMETRIA VIVA QUE ACOLHE  
+E SE DESENHA INTEGRADA AO BAIRRO.
+EDRO SE APRESENT A EM FACES.
+E CADA UMA DELAS REVELA UMA POSSIBILIDADE.
+PLANT AS VERSÁ TEIS, PARA VIDAS DIVERSAS.
+ESPAÇOS ABERTOS, PARA ENCONTROS ACOLHEDORES.
+LINHAS PURAS, DE UMA ARQUITETURA  
+NO SEU EST ADO MAIS ESSENCIAL.
+EDRO É UM QUADRILÁ TERO ARQUITETÔNICO COM  
+IDENTIDADE.
+É FORMA QUE SE TRANSFORMA.
+É MORADA COM MÚL TIPL OS OLHARES.
+EDRO. VIDA POR TODOS OS LADOS.
+
+
+=== PAGE 6 ===
+Aqui, tudo tem vários lados, várias  
+faces. A face urbana, que respira  
+o dinamismo da capital; a face da  
+tradição, que traz à tona memórias  
+afetivas; e a face de um bairro  
+que caminha para o futuro, sem  
+abrir mão de preservar sua história.
+COM MÚL TIPLAS POSSIBILIDADES                  
+          DE CONVENIÊNCIA.
+UMA REGIÃO MUL TIFACET ADA
+MOOCA
+
+
+=== PAGE 7 ===
+SUPERMERCADOS
+LAZER
+ENSINO
+GASTRONOMIA
+Pizzaria do Ângelo - 1 min
+Doceria Di Cunto - 11 min
+Cantina e Pizzaria do Gigio - 16 min
+Cantina Castelões - 19 min
+SAÚDE
+Hospital CEMA - 5 min
+Hospital Villa-Lobos - 9 min
+Hospital Santa Maggiore Mooca - 10 min
+SAM’S Clube - 4 min
+Oba Hortifruti - 9 min
+St. Marche - 10 min
+Shopping Metrô T atuapé - 6 min
+Clube Juventus - 14 min
+Parque da Mooca - 12 min
+Sesc Belenzinho - 14 min
+T eatro Gamaro - 9 min
+Distâncias estimadas no Google Maps.
+Radial Leste - 5 min
+Estação Bresser-Mooca - 8 min
+Av. Paes de Barros - 8 min
+Estação Belém - 10 min
+MOBILIDADE
+Univ. São Judas - 3 min
+Faculdade Anhanguera - 5 min
+Colégio São Judas T adeu - 5 min
+Colégio Objetivo Mooca - 10 min
+Colégio Agostiniano São José - 8 min
+Universidade Anhembi Morumbi - 9 min
+
+=== PAGE 8 ===
+FUTURO 
+COMPLEXO 
+MUL TIÚSO
+FUTURO COMPLEXO 
+HOSPIT ALAR REDE D’OR
+RADIAL LESTE SAM´S CLUBE
+ESTAÇÃO 
+BRESSER-
+MOOCA
+HOSPIT AL 
+CEMA
+PARQUE  
+BELÉM
+ESTAÇÃO  
+BELÉM SHOPPING METRÔ T A TUAPÉ
+EST AÇÃO T A TUAPÉ
+VIST A AÉREA DA REGIÃO
+MARGINAL TIETÊ
+Localizado em uma das regiões mais desejadas,  
+cercado por tudo que você precisa no dia a dia.  
+Com infraestrutura diversificada e facilidades  
+por todos os lados, a Mooca oferece praticidade  
+para se mover e viver bem em cada momento.
+
+=== PAGE 9 ===
+EDRO
+GAMARO
+/one.tosf
+3
+2
+6
+4
+5
+7
+8
+9
+10
+11
+12
+13
+14
+15
+AV. CELSO GARCIA
+AV. RANGEL PESTANA
+R.  BRESSER 
+R. ITAQUERI
+R. TAQUARI
+AV . P AES DE BARROS
+A V .   ÁL V ARO RAMOS
+AV. VER. ABEL FERREIRA
+RUA   SIQUEIRA   BUENO
+R. DIAMANTINO
+AV. SALIM     FARAH MALUF
+R. TUIUTI
+R. BELÉM
+AV. RADIAL LESTE
+R. DA MOOCA
+R. TOB
+IAS BARRETO
+/one.tosf
+2
+3
+4
+5
+6
+7
+8
+10
+9
+11
+12
+13
+14
+15
+FUTURO COMPLEXO MULTIÚSO
+SESC BELENZINHO
+CLUBE JUVENTUS
+MERCADO SAM’S CLUBE
+ST MARCHE
+OBA HORTIFRUTI
+HOSPITAL CEMA
+FUTURO COMPLEXO HOSPITALAR REDE D’OR
+COLÉGIO AGOSTINIANO SÃO JOSÉ
+COLÉGIO AGOSTINIANO MENDEL
+UNIVERSIDADE SÃO JUDAS
+COLÉGIO SÃO JUDAS TADEU
+COLÉGIO CARPE DIEM OBJETIVO
+MAPLE BEAR II
+MAPLE BEAR I
+SHOPPING
+METRÔ
+TATUAPÉ
+SHOPPING
+BOULEVARD
+METRÔ
+TATUAPÉ
+SHOPPING 
+ANÁLIA 
+FRANCO
+MOOCA 
+PLAZA 
+SHOPPING
+ESTAÇÃO 
+TATUAPÉ
+ESTAÇÃO 
+TATUAPÉ
+ESTAÇÃO 
+BELÉM
+ESTAÇÃO 
+BELÉM
+ESTAÇÃO 
+BRESSER/hyphen.case
+MOOCA
+ESTAÇÃO 
+BRESSER/hyphen.case
+MOOCA
+ESTAÇÃO
+BRÁS
+ESTAÇÃO
+BRÁS
+PARQUE 
+DO BELÉM
+PARQUE 
+PIQUERI
+PARQUE 
+CERET
+PARQUE 
+DA MOOCA
+CICLOVIAS E CICLOFAIXAS
+ESTAÇÃO
+JUVENTUS/hyphen.case
+MOOCA
+ESTAÇÃO
+JUVENTUS/hyphen.case
+MOOCA
+LEGENDA:
+Croqui ilustrativo de localização sem escala
+13
+14
+AV. CELSO GARCIA
+AV. RANGEL PESTANA
+R.  BRESSER 
+AV. RADIAL LESTE
+R. DA MOOCA
+/one.tosf
+2
+3
+4
+5
+6
+7
+8
+10
+9
+11
+12
+13
+14
+15
+FUTURO COMPLEXO MULTIÚSO
+SESC BELENZINHO
+CLUBE JUVENTUS
+MERCADO SAM’S CLUBE
+ST MARCHE
+OBA HORTIFRUTI
+HOSPITAL CEMA
+FUTURO COMPLEXO HOSPITALAR REDE D’OR
+COLÉGIO AGOSTINIANO SÃO JOSÉ
+COLÉGIO AGOSTINIANO MENDEL
+UNIVERSIDADE SÃO JUDAS
+COLÉGIO SÃO JUDAS TADEU
+COLÉGIO CARPE DIEM OBJETIVO
+MAPLE BEAR II
+MAPLE BEAR I
+MOOCA 
+PLAZA 
+SHOPPING
+ESTAÇÃO 
+BRESSER/hyphen.case
+MOOCA
+ESTAÇÃO 
+BRESSER/hyphen.case
+MOOCA
+ESTAÇÃO
+BRÁS
+ESTAÇÃO
+BRÁS
+ESTAÇÃO
+JUVENTUS/hyphen.case
+MOOCA
+ESTAÇÃO
+JUVENTUS/hyphen.case
+MOOCA
+
+=== PAGE 10 ===
+“O projeto de arquitetura paisagística do EDRO e TRY A  
+tem como objetivo principal promover uma conexão harmoniosa  
+entre os espaços construídos e a natureza. Essa integração  
+é realizada por meio de um planejamento cuidadoso que valoriza  
+as áreas verdes, proporcionando não apenas beleza estética,  
+mas também um ambiente saudável e revitalizante para os  
+moradores.
+As áreas externas foram projetadas para serem funcionais  
+e convidativas, com caminhos que se entrelaçam com  
+os jardins, permitindo que os moradores desfrutem  
+de momentos ao ar livre.”
+“O EDRO e TRY A foram idealizados para valorizar a liberdade de espaços no interior.  
+Dois volumes abraçam o terreno, criando um espaço que define a identidade do projeto.  
+A volumetria sóbria e sofisticada confere leveza à edificação e reforça a individualidade  
+das unidades. As áreas de lazer estão distribuídas em diferentes pavimentos, com paletas
+de cores que buscam equilíbrio humano e diálogo constante com o entorno.  
+A entrada principal, com pilares imponentes e lobby envidraçado de pé-direito triplo,  
+cria transição suave entre o público e o privado. Calçadas largas e vegetação exuberante  
+engrandecem essa integração.”
+ARQUITETURA
+PAISAGISMO
+DESENVOL
+     VEDORES
+
+=== PAGE 11 ===
+“O projeto de interiores para as áreas comuns do EDRO e TRY A  
+nasce do alinhamento com os principais pilares da Gamaro, que priorizam  
+a inovação, a transformação urbana e a construção de um legado positivo  
+para a cidade e o bairro de atuação.  
+Acreditamos que o design de interiores tem o poder de materializar esses  
+valores, contribuindo diretamente para a qualidade de vida dos moradores  
+e o impacto duradouro no entorno.
+Inspirados pelo conceito de Concórdia — que remete ao estado de harmonia,  
+entendimento e concordância — propomos um conceito que valoriza o viver  
+bem como forma de construir uma herança positiva.  
+O projeto busca ser um reflexo desse propósito, proporcionando espaços que  
+acolham, promovam encontros e resistam ao tempo com beleza  
+e funcionalidade.”
+INTERIORES
+“Este projeto reflete a alma da Mooca:  
+um bairro de raízes profundas, memórias  
+afetivas e espírito acolhedor.  
+A arquitetura combina materiais naturais,  
+como madeira e mármore, com um layout  
+fluido que convida à convivência  
+e valoriza o cotidiano.
+O resultado é um lar contemporâneo,  
+sofisticado e caloroso — onde cada detalhe  
+carrega história e propósito.  
+Um espaço que conecta passado e presente  
+com simplicidade elegante e atemporal.”
+APART AMENTOS
+         DECORADOS
+
+
+=== PAGE 12 ===
+pág 12
+P erspectiva ilustrada da fachada
+Imagem Ilustrativa da Fachada. Sujeita a alteração.
+
+=== PAGE 13 ===
+FICHA  
+TÉCNICA
+TIPOLOGIAS
+69m²  -  2 SUÍTES, LAVABO E ARMÁRIO
+01 VAGA  | 77 UNIDADES (5 UNIDADES SEM VAGA*)
+88m²  -  2 SUÍTES, LAVABO E ARMÁRIO
+1 VAGA DETERMINADA  I  8 UNIDADES
+95m²  -  3 DORMS. (1 SUÍTE), LAVABO E ARMÁRIO  
+2 VAGAS DETERMINADAS  | 42 UNIDADES
+132m²  -  4 DORMS. (2 OU 3 SUÍTES), LAVABO E ARMÁRIO  
+2 VAGAS DETERMINADAS  | 35 UNIDADES
+GARDENS  
+100 a 163m²   -  2 A 3 SUÍTES 2 VAGAS DETERMINADAS | ARMÁRIO
+ÁREAS COMUNS
+• LOBBY
+• SALÃO DE FEST AS
+• MINIMARKET
+• GOURMET / CHURRASQUEIRA
+• JOGOS
+• CINEMA
+• ESPAÇO KIDS
+• PLA YGROUND
+• PISCINAS ADUL TO E INFANTIL
+• FITNESS (interno / externo)  
+• SAUNA SECA
+• PRAÇA CENTRAL
+• BICICLET ÁRIO
+• PET PLACE
+• MINIQUADRA
+LOCALIZAÇÃO
+RUA SIQUEIRA BUENO, 1.085  - MOOCA
+ÁREA DO TERRENO
+4.976,37m²*
+PROJETIST AS:
+MCAA ARQUITETOS
+PROJETO DE ARQUITETURA
+ MERA ARQUITETURA PAISAGÍSTICA  
+PROJETO DE PAISAGISMO  
+MELINA ROMANO
+PROJETO DE INTERIORES
+NÚMERO DE TORRES
+3 TORRES
+NÚMERO DE PAVIMENTOS   
+11 PAVIMENTOS (2 SUBSOL OS + TÉRREO ELEVADO  
+C/ LAZER + 8 PAVIMENTOS-TIPO)  
+NÚMERO DE ELEVADORES
+TORRE A e C: 3 ELEVADORES
+TORRE B: 2 ELEVADORES
+162 UNIDADES
+69m² | 88m² | 95m² | 132m²
+* Área total considerando os empreendimentos EDRO e TRY A
+
+=== PAGE 14 ===
+TUDO COMEÇA COM SOFISTICAÇÃO.  
+O ACESSO TRADUZ A ESSÊNCIA DO PROJETO: A PERFEIT A SINTONIA COM A VIDA NA MOOCA.
+Imagem Ilustrativa do Acesso. Sujeita a alteração.
+
+=== PAGE 15 ===
+DIFERENCIAIS QUE AMPLIAM  
+            AS POSSIBILIDADES DO DIA A DIA.
+LAZER DE CLUBE PARA  
+TODAS AS IDADES COM  
+ÁREAS DECORADAS  
+E EQUIPADAS
+CLAUSURA NO ACESSO DE  
+PEDESTRES E VEÍCULOS PARA  
+GARANTIR MAIS SEGURANÇA
+PAISAGISMO ELABORADO,  
+SINT A-SE EM MEIO  
+À NA TUREZA
+INFRAESTRUTURA PARA  
+CÂMERAS DE SEGURANÇA
+* 8 CÂMERAS ENTREGUES  
+INST ALADAS
+ACADEMIA COMPLET A COM  
+ESPAÇO DE MUSCULAÇÃO,  
+AERÓBICO E BEM-EST AR,
+FITNESS INTERNO  
+E EXTERNO
+GERADOR PARA  
+A TENDIMENTO DOS SISTEMAS  
+DE EMERGÊNCIA
+BICICLET ÁRIO C/ ÁREA  
+DE MANUTENÇÃO E  
+1 VAGA DE BIKE POR  
+UNIDADE
+DUPLO ACESSO DE   
+GARAGEM (1 0  E 2 0  SUBSOLOS)  
+C/ ACESSOS INDEPENDENTES
+APROVEIT AMENTO DE  
+ÁGUAS PLUVIAIS
+ESPAÇO P/ MINIMARKET*  
+PARA FUTURA IMPLANT AÇÃO  
+DO CONDOMÍNIO
+INFRAESTRUTURA PARA
+AR-CONDICIONADO NAS
+ÁREAS COMUNS CONFORME  
+MEMORIAL DESCRITIVO
+COLET A SELETIVA  
+DE LIXO COM ESPAÇO
+PARA LIXO ORGÂNICO
+E RECICLÁVEL
+
+=== PAGE 16 ===
+IMPLANT AÇÃO
+2 0  SUBSOL O
+01 - Hall de acesso (com clausura)
+02 - Portaria
+03 - Acesso de serviços
+04 - Delivery
+05 - 
+ Lobby c/ trans
+fer p/ térreo  
+elevado
+06 - Pet place
+07 - Área de vagas
+08 - Armários 2ºss
+* As unidades residenciais terão direito ao uso de um armário por sorteio. * Os subcondomínios são independentes.
+Imagem Ilustrativa da Implantação do 2º Subsolo. Sujeita a alteração.
+1
+2
+3
+4
+5
+7
+8
+6
+8
+
+=== PAGE 17 ===
+9
+9
+10
+09 - Armários 1ºss
+10 - Bicicletário  
+IMPLANT AÇÃO
+1 0  SUBSOL O
+Imagem Ilustrativa da Implantação do 1º Subsolo. Sujeita a alteração.
+* As unidades residenciais terão direito ao uso de um armário por sorteio. * Os subcondomínios são independentes.
+
+
+=== PAGE 18 ===
+IMPLANT AÇÃO
+TÉRREO ELEVADO
+11 - Hall de chegada  
+12 - Hall de acesso torre A
+13 - Salão de festas c/ copa
+14 - Hall de acesso torre B
+15 - 
+ Espaço g
+ourmet c/  
+churrasqueira e forno de pizza*
+16 - Cinema
+17 - Salão de jogos
+18 - Brinquedoteca**
+19 - Playground
+20 - Hall de acesso torre C
+21 - Fitness outdoor
+22 - Fitness indoor
+23 - Sauna seca com ducha
+24 - Miniquadra
+25 - Piscina adulto com spa
+26 - 
+ Piscin
+a infantil c/ deck  
+molhado
+27 - Solarium
+28 - Praça central c/ lounge
+29 - Minimarket
+* Churrasqueira a gás e forno de pizza elétrico.
+** Conexão da brinquedoteca com o playground por túnel.
+Imagem Ilustrativa da Implantação do Térreo Elevado. Sujeita a alteração.
+12
+25
+26
+27
+13
+29
+11 14
+15 16 17 18
+19
+21
+202223
+24
+28
+
+=== PAGE 19 ===
+DESIGN  
+CONTEMPORÂNEO  
+           E A TEMPORAL.  
+MAIS DO QUE UMA ENTRADA SOCIAL,  
+UM CONCEITO DE ELEGÂNCIA QUE  
+VAL ORIZA CADA CHEGADA.
+Imagem Ilustrativa do Lobby . Sujeita a alteração.
+
+=== PAGE 20 ===
+ENGRANDEÇA SUA EXPERIÊNCIA DE MORAR.  
+O TÉRREO ELEVADO INSPIRA UMA VIVÊNCIA MARCADA POR LUZ  
+NA TURAL, AMPLITUDE E CONEXÃO COM O BAIRRO.
+Imagem Ilustrativa do Térreo Elevado. Sujeita a alteração.
+
+
+=== PAGE 21 ===
+pág 21
+GRANDIOSO E ACOLHEDOR.
+Imagem Ilustrativa do Lobby . Sujeita a alteração.
+O PÉ-DIREITO TRIPL O TRANSFORMA O L OBBY  
+EM UM AMBIENTE IMPONENTE  
+                    SEM NUNCA PERDER O CONFORTO.
+
+=== PAGE 22 ===
+O ESPAÇO IDEAL  
+    PARA A FAMÍLIA.
+NO SALÃO DE FEST AS, DESIGN E MOBILIÁRIO SE UNEM
+PARA TORNAR CADA ENCONTRO AINDA MAIS ESPECIAL.
+Imagem Ilustrativa do Salão de Festas. Sujeita a alteração.
+
+=== PAGE 23 ===
+Imagem Ilustrativa do Salão de Festas. Sujeita a alteração.
+
+=== PAGE 24 ===
+Imagem Ilustrativa do Espaço Gourmet. Sujeita a alteração.
+CELEBRAÇÕES COM INSPIRAÇÃO.
+AMIGOS E FAMÍLIA ENCONTRAM NO ESPAÇO GOURMET  
+           O LUGAR IDEAL PARA COMPARTILHAR BONS MOMENTOS.
+
+=== PAGE 25 ===
+AQUI, O LAZER  
+          TEM MUIT AS  
+       FORMAS.
+Imagem Ilustrativa do Espaço Cinema. Sujeita a alteração.
+Imagem Ilustrativa do Espaço Jogos. Sujeita a alteração.
+NOS ESPAÇOS CINEMA E DE JOGOS,  
+CADA DET ALHE FOI PENSADO  
+              PARA VAL ORIZAR O CONVÍVIO.
+
+=== PAGE 26 ===
+DESCOBRIR, CRIAR, BRINCAR.
+                 A BRINQUEDOTECA TRAZ DIVERSÃO PENSADA  
+PARA ESTIMULAR A CRIA TIVIDADE E A IMAGINAÇÃO.
+Imagem Ilustrativa da Brinquedoteca. Sujeita a alteração.
+
+=== PAGE 27 ===
+pág 27
+NO PLA YGROUND, CADA FASE DA INFÂNCIA  
+É ACOMPANHADA DE PERTO, COM DIVERSÃO E AFETO.
+Imagem Ilustrativa do Playground. Sujeita a alteração.
+CRESCER JUNTO É AINDA MELHOR.
+
+=== PAGE 28 ===
+Imagem Ilustrativa do Voo de Pássaro do Lazer. Sujeita a alteração.
+
+=== PAGE 29 ===
+Imagem Ilustrativa Detalhe Solário. Sujeita a alteração.
+MUITO MAIS DO QUE LAZER,  
+               UM ESPAÇO PENSADO  
+PARA PAUSAR A ROTINA E VIVER  
+      O QUE REALMENTE IMPORT A.
+CONFORTO  
+QUE CONVIDA  
+A FICAR.
+
+=== PAGE 30 ===
+perspectiva ilustrada do playground
+SEU REFÚGIO DE BEM-EST AR.
+ENTRE A PISCINA E A PRAÇA,  
+VOCÊ ENCONTRA UM LUGAR ÚNICO DE RELAXAMENTO EM FAMÍLIA.
+pág 30
+Imagem Ilustrativa da Piscina com Solário. Sujeita a alteração.
+
+=== PAGE 31 ===
+CORRER, BRINCAR E CUIDAR. SEU MELHOR AMIGO TEM LIBERDADE EM UM PET PLACE  
+                             SEGURO E EM CONT A TO COM A NA TUREZA.
+Imagem Ilustrativa do Pet Place. Sujeita a alteração.
+
+=== PAGE 32 ===
+NO FITNESS INTERNO E NO EXTERNO,  
+VOCÊ CUIDA DO SEU CORPO  
+           E MENTE SEMPRE NO SEU TEMPO.  
+Imagem Ilustrativa da Academia. Sujeita a alteração.
+Imagem Ilustrativa do Fitness Externo. Sujeita a alteração.
+SAÚDE  
+NO SEU  
+       RITMO.  
+
+=== PAGE 33 ===
+SEU AMBIENTE DE RENOVAÇÃO,  
+ONDE CUIDADO, LEVEZA  
+E EXCLUSIVIDADE  
+             SE ENCONTRAM.
+Imagem Ilustrativa da Sauna. Sujeita a alteração.
+UMA  
+EXPERIÊNCIA  
+DE BEM-EST AR.
+
+=== PAGE 34 ===
+Imagem Ilustrativa da Miniquadra. Sujeita a alteração.
+ONDE A AMIZADE  
+            GANHA ESPAÇO.
+A QUADRA REÚNE ESPORTE, AMIZADE E CONQUIST AS
+                          QUE FORT ALECEM A CONVIVÊNCIA.
+
+=== PAGE 35 ===
+TRANQUILIDADE  
+       AO AR LIVRE.
+pág 35
+Imagem Ilustrativa do Solário da Piscina. Sujeita a alteração.
+A PRAÇA É O ESPAÇO QUE    
+CONVIDA A DESACELERAR  
+E RENOVAR SUAS ENERGIAS.
+
+=== PAGE 36 ===
+Imagem Ilustrativa
+
+=== PAGE 37 ===
+AMBIENTES VERSÁ TEIS  
+QUE VAL ORIZAM  
+          SEU ESTIL O DE VIDA.
+
+=== PAGE 38 ===
+ILUSTRAÇÃO ARTÍSTICA DA PLANT A DO APTO. 132M². OS MÓVEIS, ORNAMENTOS, OBJETOS DE DECORAÇÃO, REVESTIMENTOS DE PISO, PAREDE E BANCADA SÃO MERAMENTE SUGESTÕES
+DECORA TIVAS E NÃO INTEGRAM O OBJETO DO CONTRA TO. AS UNIDADES SERÃO ENTREGUES CONFORME ESPECIFICAÇÕES CONST ANTES NO MEMORIAL DESCRITIVO.
+- UNIDADE COM HALL DE ELEVADOR SEMIPRIVA TIVO  
+  (COMPARTILHADO ENTRE 2 UNIDADES);
+- INFRAESTRUTURA PARA AR-CONDICIONADO  
+  NOS DORMITÓRIOS E NA SALA;
+- TERRAÇO TÉCNICO PARA CONDENSADORA   
+   DE AR-CONDICIONADO;
+- TERRAÇO COM INFRAESTRUTURA PARA  
+  CHURRASQUEIRA A CARVÃO;
+- PONTO DE ÁGUA QUENTE E FRIA NAS TORNEIRAS  
+  DA COZINHA E BANHEIROS;
+- CHUVEIROS COM AQUECIMENTO A GÁS;  
+- PONTO DE GÁS  PARA COOKTOP E FORNO;  
+- CAIXILHOS AMPL OS COM PERSIANA DE ENROLAR;
+- BANHO MASTER E SUÍTE 2 COM VENTILAÇÃO  
+  E ILUMINAÇÃO NA TURAIS;
+- PLANT A COM WC DE SERVIÇO;  
+- SUÍTE MASTER COM CL OSET .
+DIFERENCIAIS
+132m ²  
+3 SUÍTES
+2 VAGAS DETERMINADAS
+ARMÁRIO PRIVA TIVO
+3 SUÍTES C/ LAVABO + WC DE SERVIÇO
+DECORADO LIVING AMPLIADO
+
+=== PAGE 39 ===
+ESPAÇO  
+     QUE INSPIRA CONVIVÊNCIA.
+UM AMBIENTE FEITO PARA REUNIR  
+GRANDES MOMENTOS, VAL ORIZADO  
+PEL O AMBIENTE ÚNICO DA MOOCA.  
+
+=== PAGE 40 ===
+- UNIDADE COM HALL DE ELEVADOR SEMIPRIVA TIVO  
+  (COMPARTILHADO ENTRE 2 UNIDADES);
+- INFRAESTRUTURA PARA AR-CONDICIONADO  
+  NOS DORMITÓRIOS E NA SALA;
+- TERRAÇO TÉCNICO PARA CONDENSADORA  
+   DE AR-CONDICIONADO;
+- TERRAÇO COM INFRAESTRUTURA PARA  
+  CHURRASQUEIRA A CARVÃO;
+- PONTO DE ÁGUA QUENTE E FRIA NAS TORNEIRAS  
+  DA COZINHA E BANHEIROS;
+- CHUVEIROS COM AQUECIMENTO A GÁS;  
+- PONTO DE GÁS PARA COOKTOP E FORNO;  
+- CAIXILHOS AMPL OS COM PERSIANA DE ENROLAR;
+- BANHO MASTER E SUÍTE 2 COM VENTILAÇÃO  
+  E ILUMINAÇÃO NA TURAIS;
+- PLANT A COM WC DE SERVIÇO;
+- SUÍTE MASTER COM CL OSET .
+ILUSTRAÇÃO ARTÍSTICA DA PLANT A DO APTO.132 M². OS MÓVEIS, ORNAMENTOS, OBJETOS DE DECORAÇÃO, REVESTIMENTOS DE PISO, PAREDE E BANCADA SÃO MERAMENTE SUGESTÕES
+DECORA TIVAS E NÃO INTEGRAM O OBJETO DO CONTRA TO. AS UNIDADES SERÃO ENTREGUES CONFORME ESPECIFICAÇÕES CONST ANTES NO MEMORIAL DESCRITIVO.
+DIFERENCIAIS
+132m ²  
+4 DORMS.
+2 VAGAS DETERMINADAS
+ARMÁRIO PRIVA TIVO
+4 DORMS., SENDO 2 SUÍTES  
+C/ LAVABO + WC SERVIÇO  
+
+=== PAGE 41 ===
+Imagem Ilustrativa do Living do Apto. de 132m 2 . Sujeita a alteração.
+
+=== PAGE 42 ===
+- INFRAESTRUTURA PARA AR-CONDICIONADO  
+  NOS DORMITÓRIOS E NA SALA;
+- TERRAÇO TÉCNICO PARA CONDENSADORA  
+   DE AR-CONDICIONADO;
+- TERRAÇO COM INFRAESTRUTURA PARA  
+   CHURRASQUEIRA A CARVÃO;
+- PONTO DE ÁGUA QUENTE E FRIA NAS TORNEIRAS  
+  DA COZINHA E BANHEIROS;
+- CHUVEIROS COM AQUECIMENTO A GÁS;
+- PONTO DE GÁS  PARA COOKTOP E FORNO;
+- CAIXILHOS AMPL OS COM PERSIANA DE ENROLAR;
+- SUÍTE MASTER COM CL OSET;
+- ESPAÇO PARA HOME OFFICE.
+ILUSTRAÇÃO ARTÍSTICA DA PLANT A DO APTO. 95M². OS MÓVEIS, ORNAMENTOS, OBJETOS DE DECORAÇÃO, REVESTIMENTOS DE PISO, PAREDE E BANCADA SÃO MERAMENTE SUGESTÕES
+DECORA TIVAS E NÃO INTEGRAM O OBJETO DO CONTRA TO. AS UNIDADES SERÃO ENTREGUES CONFORME ESPECIFICAÇÕES CONST ANTES NO MEMORIAL DESCRITIVO.
+DIFERENCIAIS
+95m ²  
+3 DORMS.
+2 VAGAS DETERMINADAS
+ARMÁRIO PRIVA TIVO
+3 DORMS., SENDO  
+1 SUÍTE C/ LAVABO
+
+=== PAGE 43 ===
+Imagem Ilustrativa do Living do apto. de 95m 2 . Sujeita a alteração.
+
+=== PAGE 44 ===
+- INFRAESTRUTURA PARA AR-CONDICIONADO  
+  NOS DORMITÓRIOS E NA SALA;
+- TERRAÇO TÉCNICO PARA CONDENSADORA  
+  DE AR-CONDICIONADO;
+- TERRAÇO COM INFRAESTRUTURA PARA  
+   CHURRASQUEIRA A CARVÃO;
+- PONTO DE ÁGUA QUENTE E FRIA NAS TORNEIRAS  
+  DA COZINHA E BANHEIROS;
+- CHUVEIROS COM AQUECIMENTO A GÁS;  
+- PONTO DE GÁS  PARA COOKTOP E FORNO;
+- CAIXILHOS AMPL OS COM PERSIANA DE ENROLAR;
+- SUÍTE MASTER COM CL OSET;
+- ESPAÇO PARA HOME OFFICE.
+ILUSTRAÇÃO ARTÍSTICA DA PLANT A DO APTO. 95M². OS MÓVEIS, ORNAMENTOS, OBJETOS DE DECORAÇÃO, REVESTIMENTOS DE PISO, PAREDE E BANCADA SÃO MERAMENTE SUGESTÕES
+DECORA TIVAS E NÃO INTEGRAM O OBJETO DO CONTRA TO. AS UNIDADES SERÃO ENTREGUES CONFORME ESPECIFICAÇÕES CONST ANTES NO MEMORIAL DESCRITIVO.
+DIFERENCIAIS
+2 SUÍTES C/ LAVABO
+LIVING AMPLIADO
+95m ²  
+2 SUÍTES
+2 VAGAS DETERMINADAS
+ARMÁRIO PRIVA TIVO
+
+
+=== PAGE 45 ===
+
+
+=== PAGE 46 ===
+- INFRAESTRUTURA PARA AR-CONDICIONADO  
+  NOS DORMITÓRIOS E NA SALA;
+- TERRAÇO TÉCNICO PARA CONDENSADORA  
+  DE AR-CONDICIONADO;
+- TERRAÇO COM INFRAESTRUTURA PARA  
+   CHURRASQUEIRA A CARVÃO;
+- PONTO DE ÁGUA QUENTE E FRIA NAS TORNEIRAS  
+  DA COZINHA E BANHEIROS;
+- CHUVEIROS COM AQUECIMENTO A GÁS;  
+- PONTO DE GÁS  PARA COOKTOP E FORNO;
+- CAIXILHOS AMPL OS COM PERSIANA DE ENROLAR;
+- SUÍTE MASTER COM CL OSET E HOME OFFICE;
+- ESPAÇO PARA ROUPARIA.
+ILUSTRAÇÃO ARTÍSTICA DA PLANT A DO APTO. 88M². OS MÓVEIS, ORNAMENTOS, OBJETOS DE DECORAÇÃO, REVESTIMENTOS DE PISO, PAREDE E BANCADA SÃO MERAMENTE SUGESTÕES
+DECORA TIVAS E NÃO INTEGRAM O OBJETO DO CONTRA TO. AS UNIDADES SERÃO ENTREGUES CONFORME ESPECIFICAÇÕES CONST ANTES NO MEMORIAL DESCRITIVO.
+DIFERENCIAIS
+2 SUÍTES C/ LAVABO
+88m ²  
+2 SUÍTES
+1 VAGA DETERMINADA
+ARMÁRIO PRIVA TIVO
+
+
+=== PAGE 47 ===
+Imagem Ilustrativa da Suíte do Apto. de 88m 2 . Sujeita a alteração.
+
+=== PAGE 48 ===
+- INFRAESTRUTURA PARA AR-CONDICIONADO  
+  NOS DORMITÓRIOS E NA SALA;
+- TERRAÇO TÉCNICO PARA CONDENSADORA  
+  DE AR-CONDICIONADO;
+- TERRAÇO COM INFRAESTRUTURA PARA  
+   CHURRASQUEIRA A GÁS (GRILL);
+- PONTO DE ÁGUA QUENTE E FRIA NAS TORNEIRAS  
+  DA COZINHA E BANHEIROS;
+- CHUVEIROS COM AQUECIMENTO A GÁS;  
+- PONTO DE GÁS  PARA COOKTOP E FORNO;
+- CAIXILHOS AMPL OS COM PERSIANA DE ENROLAR;
+- SUÍTE MASTER COM CL OSET;
+- PLANT A COM POSSIBILIDADE DE LA YOUT  
+  PARA HOME OFFICE.
+ILUSTRAÇÃO ARTÍSTICA DA PLANT A DO APTO. 69M². OS MÓVEIS, ORNAMENTOS, OBJETOS DE DECORAÇÃO, REVESTIMENTOS DE PISO, PAREDE E BANCADA SÃO MERAMENTE SUGESTÕES
+DECORA TIVAS E NÃO INTEGRAM O OBJETO DO CONTRA TO. AS UNIDADES SERÃO ENTREGUES CONFORME ESPECIFICAÇÕES CONST ANTES NO MEMORIAL DESCRITIVO.
+DIFERENCIAIS
+2 SUÍTES C/ LAVABO
+DECORADO
+69m ²  
+2 SUÍTES
+1 VAGA
+ARMÁRIO PRIVA TIVO
+
+
+=== PAGE 49 ===
+Imagem Ilustrativa do Living do Apto. de 69 m 2 . Sujeita a alteração.
+
+=== PAGE 50 ===
+Imagem Ilustrativa do Living 132m 2 . Sujeita a alteração.
+
+=== PAGE 51 ===
+pág 51
+DIFERENCIAIS  
+           ÁREAS PRIVA TIVAS
+INFRAESTRUTURA PARA  
+AR-CONDICIONADO CONFORME
+MEMORIAL DESCRITIVO. TERRAÇO  
+TÉCNICO PARA INST ALAÇÃO DA
+CONDENSADORA
+TODAS AS BACIAS COM
+CAIXA ACOPLADA E SISTEMA
+DE ECONOMIA DE ÁGUA
+DUAL FLUSH, CONFORME
+MEMORIAL DESCRITIVO  
+TERRAÇO SOCIAL COM  
+INFRAESTRUTURA PARA  
+CHURRASQUEIRA A CARVÃO  
+E NAS UNIDADES DE 69M²  
+INFRAESTRUTURA PARA  
+CHURRASQUEIRA A GÁS
+ÁGUA QUENTE NA
+COZINHA E NOS BANHEIROS,  
+CONFORME MEMORIAL
+DESCRITIVO  
+PERSIANA DE ENROLAR  
+NOS DORMITÓRIOS / SUÍTES,
+CONFORME MEMORIAL
+DESCRITIVO
+PONTO DE ÁGUA
+PARA FIL TRO NA
+COZINHA  
+INFRAESTRUTURA  
+PARA AQUECEDOR DE  
+PASSAGEM Á GÁS*
+ENTREGUE COM SISTEMA
+DE MEDIÇÃO DE ÁGUA
+INST ALADO
+1 ARMÁRIO PRIVA TIVO NA  
+GARAGEM POR UNIDADE
+RESIDENCIAL
+INFRAESTRUTURA PARA  
+TOALHEIRO ELÉTRICO  
+NOS BANHOS.
+ÁREA DE SERVIÇO
+ENTREGUE COM T ANQUE  
+DE LAVAR ROUPA
+INFRAESTRUTURA
+PARA MEDIÇÃO
+INDIVIDUAL DE GÁS
+*EQUIPAMENTO DEVE SER ADQUIRIDO  
+PELO PROPRIET ÁRIO
+
+=== PAGE 52 ===
+
+

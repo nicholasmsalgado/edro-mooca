@@ -1,0 +1,54 @@
+img134.jpg   | 438x228      | Pag [6]        | A q u i , t u d o t e m v á r i o s l a d o s , v á r i a s | f a c e s . A f a c e u r b a n a , q u e r e s p i r a | o d i n a m i s m o d a c a p i t a l ; a f a c e d a
+img148.jpg   | 298x324      | Pag [6]        | A q u i , t u d o t e m v á r i o s l a d o s , v á r i a s | f a c e s . A f a c e u r b a n a , q u e r e s p i r a | o d i n a m i s m o d a c a p i t a l ; a f a c e d a
+img152.jpg   | 349x324      | Pag [6]        | A q u i , t u d o t e m v á r i o s l a d o s , v á r i a s | f a c e s . A f a c e u r b a n a , q u e r e s p i r a | o d i n a m i s m o d a c a p i t a l ; a f a c e d a
+img156.jpg   | 348x232      | Pag [6]        | A q u i , t u d o t e m v á r i o s l a d o s , v á r i a s | f a c e s . A f a c e u r b a n a , q u e r e s p i r a | o d i n a m i s m o d a c a p i t a l ; a f a c e d a
+img160.jpg   | 347x232      | Pag [6]        | A q u i , t u d o t e m v á r i o s l a d o s , v á r i a s | f a c e s . A f a c e u r b a n a , q u e r e s p i r a | o d i n a m i s m o d a c a p i t a l ; a f a c e d a
+img164.jpg   | 298x456      | Pag [6]        | A q u i , t u d o t e m v á r i o s l a d o s , v á r i a s | f a c e s . A f a c e u r b a n a , q u e r e s p i r a | o d i n a m i s m o d a c a p i t a l ; a f a c e d a
+img168.jpg   | 239x176      | Pag [6]        | A q u i , t u d o t e m v á r i o s l a d o s , v á r i a s | f a c e s . A f a c e u r b a n a , q u e r e s p i r a | o d i n a m i s m o d a c a p i t a l ; a f a c e d a
+img172.jpg   | 349x176      | Pag [6, 6]     | A q u i , t u d o t e m v á r i o s l a d o s , v á r i a s | f a c e s . A f a c e u r b a n a , q u e r e s p i r a | o d i n a m i s m o d a c a p i t a l ; a f a c e d a
+img255.jpg   | 374x253      | Pag [7]        | S U P E R M E R C A D O S | L A Z E R | E N S I N O
+img259.jpg   | 391x227      | Pag [7]        | S U P E R M E R C A D O S | L A Z E R | E N S I N O
+img263.jpg   | 338x227      | Pag [7]        | S U P E R M E R C A D O S | L A Z E R | E N S I N O
+img267.jpg   | 202x296      | Pag [7]        | S U P E R M E R C A D O S | L A Z E R | E N S I N O
+img271.jpg   | 338x181      | Pag [7]        | S U P E R M E R C A D O S | L A Z E R | E N S I N O
+img275.jpg   | 291x372      | Pag [7]        | S U P E R M E R C A D O S | L A Z E R | E N S I N O
+img310.jpg   | 1465x687     | Pag [8]        | FUTURO | COMPLEXO | MULTIÚSO
+img519.jpg   | 266x375      | Pag [10]       | “ O p r o j e t o d e a r q u i t e t u r a p a i s a g í s t i c a d o E D R O e T RYA | t e m c o m o o b j e t i v o p r i n c i p a l p r o m o v e r u m a c o n e x ã o h a r m o n i o s a | e n t r e o s e s p a ç o s c o n s t r u í d o s e a n a t u r e z a . E s s a i n t e g r a ç ã o
+img520.jpg   | 433x186      | Pag [10]       | “ O p r o j e t o d e a r q u i t e t u r a p a i s a g í s t i c a d o E D R O e T RYA | t e m c o m o o b j e t i v o p r i n c i p a l p r o m o v e r u m a c o n e x ã o h a r m o n i o s a | e n t r e o s e s p a ç o s c o n s t r u í d o s e a n a t u r e z a . E s s a i n t e g r a ç ã o
+img539.jpg   | 276x385      | Pag [11]       | “ O p r o j e t o d e i n t e r i o r e s p a r a a s á r e a s c o m u n s d o E D R O e T RYA | n a s c e d o a l i n h a m e n t o c o m o s p r i n c i p a i s p i l a r e s d a G a m a r o , q u e p r i o r i z a m | a i n o v a ç ã o , a t r a n s f o r m a ç ã o u r b a n a e a c o n s t r u ç ã o d e u m l e g a d o p o s i t i v o
+img548.jpg   | 310x385      | Pag [11]       | “ O p r o j e t o d e i n t e r i o r e s p a r a a s á r e a s c o m u n s d o E D R O e T RYA | n a s c e d o a l i n h a m e n t o c o m o s p r i n c i p a i s p i l a r e s d a G a m a r o , q u e p r i o r i z a m | a i n o v a ç ã o , a t r a n s f o r m a ç ã o u r b a n a e a c o n s t r u ç ã o d e u m l e g a d o p o s i t i v o
+img570.jpg   | 1421x949     | Pag [12]       | p á g 1 2 | Perspectiva ilustrada da fachada | Imagem Ilustrativa da Fachada. Sujeita a alteração.
+img584.jpg   | 1209x692     | Pag [14]       | T U D O C O M E Ç A C O M S O F I S T I C A Ç Ã O . | O A C E S S O T R A D U Z A E S S Ê N C I A D O P R O J E T O : A P E R F E I T A S I N T O N I A C O M A V I D A N A M O O C A . | Imagem Ilustrativa do Acesso. Sujeita a alteração.
+img652.jpg   | 1011x571     | Pag [16]       | I | M P L | A
+img668.jpg   | 1008x568     | Pag [17]       | 9 | 9 | 10
+img675.jpg   | 1010x571     | Pag [18]       | I M P L | A N T A Ç Ã O | T É R R E O E L E V A D O
+img681.jpg   | 809x949      | Pag [19]       | D E S I G N | C O N T E M P O R Â N E O | E A T E M P O R A L .
+img687.jpg   | 1221x687     | Pag [20]       | E N G R A N D E Ç A S U A E X P E R I Ê N C I A D E M O R A R . | O T É R R E O E L E V A D O I N S P I R A U M A V I V Ê N C I A M A R C A D A P O R L U Z | N A T U R A L , A M P L I T U D E E C O N E X Ã O C O M O B A I R R O .
+img695.jpg   | 1421x718     | Pag [21]       | p á g 2 1 | G R A N D I O S O E A C O L H E D O R . | Imagem Ilustrativa do Lobby. Sujeita a alteração.
+img710.jpg   | 814x469      | Pag [22]       | O E S P A Ç O I D E A L | P A R A A F A M Í L I A . | N O S A L Ã O D E F E S T A S , D E S I G N E M O B I L I Á R I O S E U N E M
+img715.jpg   | 1421x628     | Pag [23]       | Imagem Ilustrativa do Salão de Festas. Sujeita a alteração.
+img720.jpg   | 1342x756     | Pag [24]       | Imagem Ilustrativa do Espaço Gourmet. Sujeita a alteração. | C E L E B R A Ç Õ E S C O M I N S P I R A Ç Ã O . | A M I G O S E F A M Í L I A E N C O N T R A M N O E S P A Ç O G O U R M E T
+img726.jpg   | 945x529      | Pag [25]       | A Q U I , O L A Z E R | T E M M U I T A S | F O R M A S .
+img729.jpg   | 702x423      | Pag [25]       | A Q U I , O L A Z E R | T E M M U I T A S | F O R M A S .
+img743.jpg   | 1224x689     | Pag [26]       | D E S C O B R I R , C R I A R , B R I N C A R . | A B R I N Q U E D O T E C A T R A Z D I V E R S Ã O P E N S A D A | P A R A E S T I M U L A R A C R I A T I V I D A D E E A I M A G I N A Ç Ã O .
+img753.jpg   | 1226x692     | Pag [27]       | p á g 2 7 | N O P L A Y G R O U N D , C A D A F A S E D A I N F Â N C I A | É A C O M P A N H A D A D E P E R T O , C O M D I V E R S Ã O E A F E T O .
+img757.jpg   | 1422x949     | Pag [28]       | Imagem Ilustrativa do Voo de Pássaro do Lazer. Sujeita a alteração.
+img778.jpg   | 1342x727     | Pag [30]       | perspectiva ilustrada do playground | S E U R E F Ú G I O D E B E M - E S T A R . | E N T R E A P I S C I N A E A P R A Ç A ,
+img791.jpg   | 1420x728     | Pag [31]       | C O R R E R , B R I N C A R E C U I D A R . | S E U M E L H O R A M I G O T E M L I B E R D A D E E M U M P E T P L A C E | S E G U R O E E M C O N T A T O C O M A N A T U R E Z A .
+img801.jpg   | 998x597      | Pag [32]       | N O F I T N E S S I N T E R N O E N O E X T E R N O , | V O C Ê C U I D A D O S E U C O R P O | E M E N T E S E M P R E N O S E U T E M P O .
+img803.jpg   | 609x353      | Pag [32]       | N O F I T N E S S I N T E R N O E N O E X T E R N O , | V O C Ê C U I D A D O S E U C O R P O | E M E N T E S E M P R E N O S E U T E M P O .
+img819.jpg   | 589x949      | Pag [33]       | S E U A M B I E N T E D E R E N O V A Ç Ã O , | O N D E C U I D A D O , L E V E Z A | E E X C L U S I V I D A D E
+img836.jpg   | 1203x679     | Pag [34]       | Imagem Ilustrativa da Miniquadra. Sujeita a alteração. | O N D E A A M I Z A D E | G A N H A E S P A Ç O .
+img858.jpg   | 1353x829     | Pag [36]       | Imagem Ilustrativa
+img888.jpg   | 866x563      | Pag [38]       | ILUSTRAÇÃO ARTÍSTICA DA PLANTA DO APTO. 132M². OS MÓVEIS, ORNAMENTOS, OBJETOS DE DECORAÇÃO, REVESTIMENTOS DE PISO, PAREDE E BANCADA SÃO MERAMENTE SUGESTÕES | DECORATIVAS E NÃO INTEGRAM O OBJETO DO CONTRATO. AS UNIDADES SERÃO ENTREGUES CONFORME ESPECIFICAÇÕES CONSTANTES NO MEMORIAL DESCRITIVO. | - UNIDADE COM HALL DE ELEVADOR SEMIPRIVATIVO
+img934.jpg   | 867x563      | Pag [40]       | - UNIDADE COM HALL DE ELEVADOR SEMIPRIVATIVO | (COMPARTILHADO ENTRE 2 UNIDADES); | - INFRAESTRUTURA PARA AR-CONDICIONADO
+img950.jpg   | 1420x811     | Pag [41]       | Imagem Ilustrativa do Living do Apto. de 132m 2. Sujeita a alteração.
+img983.jpg   | 884x537      | Pag [42]       | - INFRAESTRUTURA PARA AR-CONDICIONADO | NOS DORMITÓRIOS E NA SALA; | - TERRAÇO TÉCNICO PARA CONDENSADORA
+img994.jpg   | 1419x789     | Pag [43]       | Imagem Ilustrativa do Living do apto. de 95m 2. Sujeita a alteração.
+img1026.jpg  | 900x524      | Pag [44]       | - INFRAESTRUTURA PARA AR-CONDICIONADO | NOS DORMITÓRIOS E NA SALA; | - TERRAÇO TÉCNICO PARA CONDENSADORA
+img1047.jpg  | 826x513      | Pag [45]       | 
+img1068.jpg  | 838x595      | Pag [46]       | - INFRAESTRUTURA PARA AR-CONDICIONADO | NOS DORMITÓRIOS E NA SALA; | - TERRAÇO TÉCNICO PARA CONDENSADORA
+img1097.jpg  | 1420x781     | Pag [47]       | Imagem Ilustrativa da Suíte do Apto. de 88m 2. Sujeita a alteração.
+img1116.jpg  | 886x541      | Pag [48]       | - INFRAESTRUTURA PARA AR-CONDICIONADO | NOS DORMITÓRIOS E NA SALA; | - TERRAÇO TÉCNICO PARA CONDENSADORA
+img1132.jpg  | 1420x801     | Pag [49]       | Imagem Ilustrativa do Living do Apto. de 69 m 2. Sujeita a alteração.
+img1137.jpg  | 1422x949     | Pag [50]       | Imagem Ilustrativa do Living 132m 2. Sujeita a alteração.

@@ -1,0 +1,13 @@
+# Temp & archives
+*.zip
+*.tar
+*.tar.gz
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
+__pycache__/
