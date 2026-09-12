@@ -251,7 +251,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Inicializar Slider de Plantas (Capítulo 03)
   initHorizontalSlider('plansTrack', 'btnPlansPrev', 'btnPlansNext', 'plansDots');
 
-  // 5.1 Tour Virtual 360° Interativo (Capítulo 04)
+  // 5.1 Tour Virtual 360° Interativo (Capítulo 04) - On-Demand Facade Pattern
   const initTour360 = () => {
     const tourTabs = document.querySelectorAll('.tour-tab-btn');
     const panel69 = document.getElementById('tourPanel69');
@@ -263,27 +263,41 @@ document.addEventListener('DOMContentLoaded', () => {
     const loader132 = document.getElementById('loaderTour132');
     const iframe69 = document.getElementById('iframeTour69');
     const iframe132 = document.getElementById('iframeTour132');
+    const btnStart69 = document.getElementById('btnStartTour69');
+    const btnStart132 = document.getElementById('btnStartTour132');
 
-    // Desaparecer o loader com transição suave quando os iframes carregarem
-    const hideLoader = (loader) => {
-      if (!loader || loader.style.display === 'none') return;
-      loader.style.opacity = '0';
-      loader.style.pointerEvents = 'none';
-      setTimeout(() => { loader.style.display = 'none'; }, 450);
+    const loadIframe = (iframe, loader, btn) => {
+      if (!iframe) return;
+      const dataSrc = iframe.getAttribute('data-src');
+      if (!iframe.src || iframe.src === 'about:blank' || !iframe.src.startsWith('http')) {
+        if (btn) {
+          btn.innerHTML = `<span class="tour-spinner" style="width:14px;height:14px;border-width:2px;display:inline-block;vertical-align:middle;margin-right:6px;"></span><span>Carregando 360°...</span>`;
+          btn.disabled = true;
+        }
+        iframe.src = dataSrc;
+        iframe.addEventListener('load', () => {
+          if (loader) {
+            loader.style.opacity = '0';
+            loader.style.pointerEvents = 'none';
+            setTimeout(() => { loader.style.display = 'none'; }, 450);
+          }
+        }, { once: true });
+        // Fallback timeout de segurança
+        setTimeout(() => {
+          if (loader && loader.style.display !== 'none') {
+            loader.style.opacity = '0';
+            loader.style.pointerEvents = 'none';
+            setTimeout(() => { loader.style.display = 'none'; }, 450);
+          }
+        }, 4000);
+      }
     };
 
-    if (iframe69 && loader69) {
-      iframe69.addEventListener('load', () => {
-        hideLoader(loader69);
-      });
-      // Fallback seguro caso o iframe demore ou o evento já tenha disparado
-      setTimeout(() => { hideLoader(loader69); }, 2200);
+    if (btnStart69) {
+      btnStart69.addEventListener('click', () => loadIframe(iframe69, loader69, btnStart69));
     }
-    if (iframe132 && loader132) {
-      iframe132.addEventListener('load', () => {
-        hideLoader(loader132);
-      });
-      setTimeout(() => { hideLoader(loader132); }, 3500);
+    if (btnStart132) {
+      btnStart132.addEventListener('click', () => loadIframe(iframe132, loader132, btnStart132));
     }
 
     if (!tourTabs.length) return;
