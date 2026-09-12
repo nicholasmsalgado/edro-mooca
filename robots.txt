@@ -1,7 +1,6 @@
 User-agent: *
 Allow: /
 
-# Permissão para rastreadores de IAs e Motores de Busca
 User-agent: Googlebot
 Allow: /
 
@@ -27,3 +26,4 @@ User-agent: Google-Extended
 Allow: /
 
 Sitemap: https://edrogamaromooca.com.br/sitemap.xml
+Sitemap: https://edrogamaromooca.com.br/sitemap_index.xml
