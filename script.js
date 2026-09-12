@@ -311,29 +311,22 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     });
 
-    // Controle de Tela Cheia
+    // Controle de Tela Cheia (Padrão W3C Moderno sem APIs legadas)
     if (btnFullscreen && viewerCard) {
       btnFullscreen.addEventListener('click', () => {
-        const isFull = !!(document.fullscreenElement || document.webkitFullscreenElement);
-        if (!isFull) {
+        if (!document.fullscreenElement) {
           if (viewerCard.requestFullscreen) {
-            viewerCard.requestFullscreen();
-          } else if (viewerCard.webkitRequestFullscreen) {
-            viewerCard.webkitRequestFullscreen();
-          } else if (viewerCard.msRequestFullscreen) {
-            viewerCard.msRequestFullscreen();
+            viewerCard.requestFullscreen().catch(() => {});
           }
         } else {
           if (document.exitFullscreen) {
-            document.exitFullscreen();
-          } else if (document.webkitExitFullscreen) {
-            document.webkitExitFullscreen();
+            document.exitFullscreen().catch(() => {});
           }
         }
       });
 
       const updateFullscreenBtnState = () => {
-        const isFull = !!(document.fullscreenElement || document.webkitFullscreenElement);
+        const isFull = !!document.fullscreenElement;
         const span = btnFullscreen.querySelector('span');
         if (span) {
           span.textContent = isFull ? 'Sair da Tela Cheia' : 'Tela Cheia';
@@ -341,7 +334,6 @@ document.addEventListener('DOMContentLoaded', () => {
       };
 
       document.addEventListener('fullscreenchange', updateFullscreenBtnState);
-      document.addEventListener('webkitfullscreenchange', updateFullscreenBtnState);
     }
   };
 
