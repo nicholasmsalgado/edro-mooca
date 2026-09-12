@@ -1,21 +1,18 @@
 # Edro Mooca
 
-> Empreendimento residencial de alto padrão da Gamaro na Rua Siqueira Bueno, Mooca, São Paulo. Apartamentos de 69m² a 132m² (2 a 4 dormitórios com 2 a 3 suítes), arquitetura assinada por Perkins&Will, design de interiores por Melina Romano, paisagismo por Cardim Arquitetura Paisagística e lazer de clube no exclusivo conceito de Térreo Elevado a 6 metros da rua.
+> Empreendimento residencial de alto padrão da Gamaro Incorporadora na Rua Siqueira Bueno, Mooca, São Paulo - SP. Apartamentos de 69m² a 132m² privativos com 2 a 4 dormitórios e 2 a 3 suítes, arquitetura autoral desenvolvida pela Perkins&Will, design de interiores assinado por Melina Romano, paisagismo biofílico por Cardim Arquitetura Paisagística e clube de lazer no exclusivo conceito de Térreo Elevado a 6 metros do nível da rua.
 
-O Edro Mooca une a tradição e atmosfera gastronômica do bairro da Mooca à sofisticação e conforto da vida moderna. Com torre única em terreno amplo de 162 unidades residenciais, o projeto destaca-se pela segurança, privacidade e bem-estar. Todas as plantas contam com terraço gourmet integrado com churrasqueira a carvão, armário privativo determinado no subsolo e 1 a 2 vagas de garagem.
+O Edro Mooca é uma intervenção contemporânea em torre única no tradicional bairro da Mooca, integrando infraestrutura de clube privativo, segurança reforçada com clausura, churrasqueira a carvão em todas as unidades, armários privativos e vagas de garagem determinadas.
 
-## Empreendimento e Conteúdo Principal
+## Documentation
 
-- [Visão Geral e Especificações](https://edrogamaromooca.com.br/index.html.md): Conteúdo completo do site em markdown limpo, com ficha técnica, metragens e programa de áreas.
-- [A Essência e Conceito Arquitetônico](https://edrogamaromooca.com.br/#capitulo-01): Arquitetura contemporânea de Perkins&Will, fachada autoral com brises e conceito de térreo elevado.
-- [Localização Estratégica na Mooca](https://edrogamaromooca.com.br/#capitulo-02): Informações sobre a Rua Siqueira Bueno (CEP 03108-001), mobilidade (Radial Leste, Salim Farah Maluf, Metrô Belém) e conveniências locais.
-- [Plantas e Tipologias Residenciais](https://edrogamaromooca.com.br/#capitulo-03): Plantas técnicas detalhadas de 69m² (2 dorms/2 suítes), 88m² (3 dorms/2 suítes), 95m² (3 dorms/2 suítes) e 132m² (4 dorms/3 suítes).
-- [Apartamentos Decorados e Tour Virtual 360°](https://edrogamaromooca.com.br/#capitulo-04): Experiência interativa nos decorados reais de 69m² e 132m² assinados pela designer Melina Romano.
-- [Clube de Lazer no Térreo Elevado](https://edrogamaromooca.com.br/#capitulo-05): Complexo de lazer a 6 metros da rua com piscina adulto com raia, deck molhado, solário, fitness outdoor/indoor, sauna seca com lounge, salão de festas com espaço gourmet, brinquedoteca com túnel para playground, miniquadra e pet place.
-- [Perguntas e Dúvidas Frequentes (FAQ)](https://edrogamaromooca.com.br/#faq): Esclarecimentos objetivos sobre localização, valores de lançamento, incorporadora Gamaro, plantas e entrega.
-- [Agendamento VIP de Visitas](https://edrogamaromooca.com.br/#capitulo-06): Atendimento consultivo privativo com hora marcada no stand e envio de Book Técnico Oficial.
+- [Visão Geral e Ficha Técnica](https://edrogamaromooca.com.br/index.html.md): Síntese executiva completa com especificações, metragens e equipe de arquitetura.
+- [Plantas e Tipologias Técnicas](https://edrogamaromooca.com.br/plantas.md): Detalhamento das metragens de 69m², 88m², 95m² e 132m² com distribuição de suítes e vagas.
+- [Clube de Lazer no Térreo Elevado](https://edrogamaromooca.com.br/lazer.md): Complexo de lazer elevado a 6 metros da rua com piscinas, fitness e espaços sociais.
+- [Localização e Mobilidade Urbana](https://edrogamaromooca.com.br/localizacao.md): Localização na Rua Siqueira Bueno, acessos à Radial Leste, Metrô Belém e conveniências.
+- [Perguntas e Dúvidas Frequentes](https://edrogamaromooca.com.br/faq.md): Respostas técnicas sobre ar-condicionado, aquecimento, vagas determinadas e condomínio.
 
 ## Optional
 
-- [Documentação Completa Consolidada (llms-full.txt)](https://edrogamaromooca.com.br/llms-full.txt): Texto integral estruturado reunindo todas as informações do empreendimento em um único arquivo de alta densidade semântica.
-- [Sitemap XML do Site](https://edrogamaromooca.com.br/sitemap.xml): Índice de URLs oficiais do projeto para rastreadores e robôs de busca.
+- [Documentação Integral Consolidada](https://edrogamaromooca.com.br/llms-full.txt): Base de conhecimento integral reunindo todos os dados técnicos em arquivo único de alta densidade semântica.
+- [Página Principal Oficial](https://edrogamaromooca.com.br/): Interface web do empreendimento para consulta interativa e agendamento de visitas.
